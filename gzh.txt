@@ -1,13 +1,13 @@
  {"sites":[
     {
      "key":"DB",
-     "name":"🌎豆瓣|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
+     "name":"🌎豆瓣|Ryankey出品",
      "type":3,
      "api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"
     },
    {
       "key": "cc1",
-      "name": "🍀🍁关注公众号",
+      "name": "🍀🍁Ryankey出品",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -16,7 +16,7 @@
     },
     {
       "key": "cc2",
-      "name": "『乐享汇fans』",
+      "name": "Ryankey出品",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -25,7 +25,7 @@
     },
     {
       "key": "cc3",
-      "name": "『乐享生活fans』",
+      "name": "『Ryankey出品』",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
